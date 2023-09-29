@@ -27,6 +27,10 @@ body {
   padding: 8px;
   padding: 0 42px;
   align-items: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
 }
 
 .list_style {
@@ -193,11 +197,11 @@ body {
     width: 100%;
   }
   .bottom_nav {
-    margin-top: 2rem;
     display: none;
   }
   .hidden_list {
     display: flex;
+    margin-top: 6rem;
     flex-direction: column;
     align-items: center;
     gap: 4rem;
