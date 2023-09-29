@@ -1,0 +1,2 @@
+1.sticky navbar
+2.hidden_list margin -top
