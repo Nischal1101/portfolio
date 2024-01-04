@@ -12,7 +12,6 @@
   --bg-text: #ffff;
   --bg-main: #1f2022;
 }
-
 body {
   font-family: "Ubuntu", sans-serif;
   background: var(--bg-main);
@@ -32,7 +31,6 @@ body {
   right: 0;
   left: 0;
 }
-
 .list_style {
   font-size: 18px;
   display: flex;
@@ -40,7 +38,6 @@ body {
   text-decoration: none;
   list-style: none;
 }
-
 .list_style li {
   text-decoration: none;
 }
@@ -67,7 +64,7 @@ body {
   display: none;
 }
 .hero {
-  height: 90vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -129,7 +126,6 @@ body {
   text-shadow: 0 0 50px yellow, 0 0 100px yellow, 0 0 150px yellow,
     0 0 200px yellow;
 }
-
 #checkbox {
   visibility: hidden;
 }
